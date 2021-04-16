@@ -16,7 +16,7 @@
 
 <p align="center">
         <a href="https://www.facebook.com/guilherme.cavenaghi">
-        <img  src="https://img.shields.io/badge/facebook-%230077B5?&style=for-the-badge&logo=facebook&logoColor=white&link=mailto:https://www.facebook.com/guilherme.cavenaghi">
+        <img  src="https://img.shields.io/badge/facebook-%230027B5?&style=for-the-badge&logo=facebook&logoColor=white&link=mailto:https://www.facebook.com/guilherme.cavenaghi">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Guilherme-del">
