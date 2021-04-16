@@ -15,6 +15,10 @@
 ## Contact :iphone:
 
 <p align="center">
+        <a href="https://www.facebook.com/guilherme.cavenaghi">
+        <img  src="https://img.shields.io/badge/facebook-%23100000.svg?&style=for-the-badge&logo=facebook&logoColor=blue&link=mailto:https://www.facebook.com/guilherme.cavenaghi">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/Guilherme-del">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/https://github.com/Guilherme-del">
     </a>
