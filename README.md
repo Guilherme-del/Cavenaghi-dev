@@ -1,14 +1,14 @@
 <h1 align="center"> Hi there, welcome to my github profile !  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"</h1>
 
 <h3 align = "center"> Abstract <h3>
-<body>
 
+
+<body>
 <p>	
-<ol>	
 <ul type= "square"> <li> 🔭 Nowdays i work as developer at @abcsinformatica</li>
 <li>⚡ Fun facts : in my free time i like to workout and play video games</li>
-<li>💬 I love to learn and have new experiences so feel free to call me at my social medias <hr></li> </ul>	
-</ol> 
+<li>💬 I love to learn and have new experiences so feel free to call me at my social medias</li> 
+</ul>	
 </p>	
 </body>
 
