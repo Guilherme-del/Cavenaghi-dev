@@ -28,5 +28,12 @@
     </a>
 </p>
 
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Guilherme-del/count.svg" />
+ </p>
+
 <!--
 *Guilherme-del/cavenaghi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
