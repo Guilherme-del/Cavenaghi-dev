@@ -5,8 +5,8 @@
 
 <body>
 <p>	
-<ul type= "square"> <li> 🔭 Nowdays i work as developer at @abcsinformatica</li>
-<li>⚡ Fun facts : in my free time i like to workout and play video games</li>
+<ul type= "square"> <li> 🔭 Nowdays I work as developer at @abcsinformatica</li>
+<li>⚡ Fun facts : in my free time I like to workout and play video games</li>
 <li>💬 I love to learn and have new experiences so feel free to call me at my social medias</li> 
 </ul>	
 </p>	
