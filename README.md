@@ -1,4 +1,5 @@
-# Hi there, welcome to my github profile !  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center"> Hi there, welcome to my github profile !  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"</h1>
+
 ### Abstract
 <body>
 
@@ -11,8 +12,7 @@
 </p>	
 </body>
 
-
-## Contact :iphone:
+<h2 align = "center"> Contact :iphone:</h2>
 
 <p align="center">
         <a href="https://www.facebook.com/guilherme.cavenaghi">
@@ -34,7 +34,7 @@
 
 <p align="center"> 
 
- ## Total visits on my profile :detective: <br>
+  <h2 align = "center">Total visits on my profile :detective: <br></h2>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Guilherme-del/count.svg" />
  </p>
