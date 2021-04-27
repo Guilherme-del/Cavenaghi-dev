@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, welcome to my github profile !  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"</h1>
 
-<h2 align = "center">👩‍💻 About Me <h2>
+<h3 align = "center">👩‍💻 About Me <h3>
 
 
 <body>
@@ -12,7 +12,7 @@
 </p>	
 </body>
 
-<h2 align = "center"> Contact :iphone:</h2>
+<h3 align = "center"> Contact :iphone: <hr></h3>
 
 <p align="center">
         <a href="https://www.facebook.com/guilherme.cavenaghi" target = "blank">
