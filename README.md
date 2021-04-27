@@ -12,7 +12,7 @@
 </p>	
 </body>
 
-<h3 align = "center"> Contact :iphone: <hr></h3>
+<h3 align = "center"> Contact me :iphone: <hr></h3>
 
 <p align="center">
         <a href="https://www.facebook.com/guilherme.cavenaghi" target = "blank">
