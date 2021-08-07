@@ -5,7 +5,7 @@
 
 <body>
 <p>	
-<ul type= "square"> <li> 🔭 Nowdays I work as developer at @abcsinformatica</li>
+<ul type= "square"> <li> 🔭 Nowdays I work as developer at @cantoporto</li>
 <li>⚡ Fun facts : in my free time I like to workout and play video games</li>
 <li>💬 I love to learn and have new experiences so feel free to call me at my social medias</li> 
 </ul>	
