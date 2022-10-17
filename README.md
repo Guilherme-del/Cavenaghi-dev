@@ -5,8 +5,9 @@
 
 <body>
 <p>	
-<ul type= "square"> <li> 🔭 I work as developer at cantoporto on web, desktop and mobile projects as a Full Stack Developer.</li>
-<li>⚡ Fun facts : in my free time I like to workout and play video games</li>
+<ul type= "square"> 
+<li> 🔭 Developer at cantoporto working on web, desktop and mobile projects as a Full Stack Developer.</li>
+<li>⚡ Fun facts : In my free time I like to workout and play video games</li>
 <li>💬 I love to learn and have new experiences so feel free to call me at my social medias</li> 
 </ul>	
 </p>	
